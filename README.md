@@ -16,3 +16,18 @@ I'm a **Software Developer** at **United Airlines**, where I build scalable micr
 - 🎓 **Education**:
   - Master of Computer Engineering, Illinois Institute of Technology (2017–2019)
   - Bachelor of Engineering in Computer Engineering, University of Pune (2013–2017)
+
+---
+
+## 🛠️ Skills
+
+| **Category**        | **Technologies**                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Languages**       | Java, JavaScript, Python, Kotlin, JSP, HTML/CSS, Postgres SQL, Verilog           |
+| **Frameworks**      | SpringBoot, Spring MVC, React, NodeJS, JUnit, Mockito, Selenium, Pyverilog       |
+| **Tools**           | IntelliJ, Eclipse, Git, Postman, Jira, Jenkins, Harness DevOps, WinSCP, Putty, Ollama |
+| **Cloud & DevOps**  | AWS (DynamoDB, EC2, IAM, Lambda, ECS, CloudWatch), Docker, Kubernetes, CI/CD    |
+| **Databases**       | MongoDB, DynamoDB, Postgres SQL, Redis                                         |
+| **Other**           | Kafka, REST APIs, Maven/Gradle, Log4j, DataDog, WebSphere, Azure, GCP, Mistral 7B LLM |
+
+---
