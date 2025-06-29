@@ -31,3 +31,20 @@ I'm a **Software Developer** at **United Airlines**, where I build scalable micr
 | **Other**           | Kafka, REST APIs, Maven/Gradle, Log4j, DataDog, WebSphere, Azure, GCP, Mistral 7B LLM |
 
 ---
+
+## 💼 Current Role
+
+### **Software Developer** | United Airlines  
+_Aug 2020 – Present_  
+- **NextGen Weight and Balance (Cloud Migration)**:
+  - Built 50+ microservice APIs using Java SpringBoot, making systems more scalable and easier to maintain.
+  - Optimized AWS DynamoDB, cutting query latency by 34.97% for faster performance.
+  - Switched to Kafka for messaging, boosting throughput by 27.5% over legacy systems.
+  - Reduced deployment time by 21.65% and cloud costs by 24.56% with efficient AWS patterns.
+  - Strengthened security with IAM best practices, improving system reliability.
+- **Crew Management (Enhancement Project)**:
+  - Acted as the main onshore contact for a 10-member team, keeping clients and stakeholders aligned.
+  - Mentored 3 junior developers, increasing team efficiency by 20%.
+  - Automated root cause analysis using microservices and AWS Lambda, speeding up data recovery.
+
+---
