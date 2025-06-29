@@ -48,3 +48,12 @@ _Aug 2020 – Present_
   - Automated root cause analysis using microservices and AWS Lambda, speeding up data recovery.
 
 ---
+
+## 🌟 Featured Projects
+
+### **Lightweight Hardware Flaw Detection**  
+_Aug 2024 – Present_  
+- Developed a Python-based tool using Pyverilog and Mistral 7B LLM to detect timing, logic, power, and security flaws in Verilog designs (<10,000 gates).
+- Built rule-based and LLM-driven pipelines to analyze Verilog code, generating detailed flaw reports with actionable fixes.
+- Deployed locally on macOS with Ollama for secure, efficient execution, reducing manufacturing costs and boosting chip reliability.
+- [View on GitHub](https://github.com/vishantbhole/chip_flaw_detection) 
