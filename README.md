@@ -69,5 +69,5 @@ _Aug 2024 – Present_
 ## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner** (Mar 2025 – Mar 2028)  
-  [![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-orange?logo=amazonaws)](https://www.credly.com/badges/8463be3d-91e2-48d0-997f-8c035e0760b3/public_url) 
+  [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/1e0c5c84-11d2-4dc6-9933-4eb58a8d1631/image.png)](https://www.credly.com/badges/8463be3d-91e2-48d0-997f-8c035e0760b3/public_url)
 
