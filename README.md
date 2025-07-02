@@ -75,4 +75,12 @@ _Aug 2024 – Present_
   [![Microsoft GitHub Partner Bootcamp](https://github.com/vishantbhole/vishantbhole/blob/main/images/microsoft-github.png)](https://www.credly.com/badges/51849b8a-86f6-4c7e-a942-c11464690a4b)
 
 - **MTA: Security Fundamentals - Certified 2016** (2016)  
-  [![MTA Security Fundamentals](https://github.com/vishantbhole/vishantbhole/blob/main/images/mta-security.png)](https://www.credly.com/badges/43567f30-af0b-4c8e-aca1-85da1355bad5) 
+  [![MTA Security Fundamentals](https://github.com/vishantbhole/vishantbhole/blob/main/images/mta-security.png)](https://www.credly.com/badges/43567f30-af0b-4c8e-aca1-85da1355bad5)
+
+  ---
+
+## 📫 Connect with Me
+
+- 📧 **Email**: vishantbhole@gmail.com.
+- 💼 **LinkedIn**: [linkedin.com/in/vishantbhole](https://www.linkedin.com/in/vishantbhole/)
+---
