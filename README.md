@@ -69,5 +69,18 @@ _Aug 2024 – Present_
 ## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner** (Mar 2025 – Mar 2028)  
-  [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/1e0c5c84-11d2-4dc6-9933-4eb58a8d1631/image.png)](https://www.credly.com/badges/8463be3d-91e2-48d0-997f-8c035e0760b3/public_url)
+  [![AWS Certified Cloud Practitioner](https://github.com/vishantbhole/vishantbhole/blob/main/images/aws-badge.png)](https://www.credly.com/badges/8463be3d-91e2-48d0-997f-8c035e0760b3/public_url)
+  
+- **FY25 Microsoft GitHub Partner Bootcamp Participant** (2025)  
+  [![Microsoft GitHub Partner Bootcamp](https://github.com/vishantbhole/vishantbhole/blob/main/images/microsoft-github.png)](https://www.credly.com/badges/51849b8a-86f6-4c7e-a942-c11464690a4b)
 
+- **MTA: Security Fundamentals - Certified 2016** (2016)  
+  [![MTA Security Fundamentals](https://github.com/vishantbhole/vishantbhole/blob/main/images/mta-security.png)](https://www.credly.com/badges/43567f30-af0b-4c8e-aca1-85da1355bad5)
+
+  ---
+
+## 📫 Connect with Me
+
+- 📧 **Email**: vishantbhole@gmail.com.
+- 💼 **LinkedIn**: [linkedin.com/in/vishantbhole](https://www.linkedin.com/in/vishantbhole/)
+---
