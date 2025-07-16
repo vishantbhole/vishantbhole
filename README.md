@@ -81,6 +81,6 @@ _Aug 2024 – Present_
 
 ## 📫 Connect with Me
 
-- 📧 **Email**: vishantbhole@gmail.com.
+- 📧 **Email**: vishantbhole@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/vishantbhole](https://www.linkedin.com/in/vishantbhole/)
 ---
